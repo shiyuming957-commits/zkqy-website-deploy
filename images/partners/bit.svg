@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <rect width="200" height="80" rx="8" fill="#f8fafc"/>
+  <rect x="12" y="16" width="48" height="48" rx="8" fill="#0d5c2e"/>
+  <text x="36" y="48" font-family="serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">北理</text>
+  <text x="130" y="38" font-family="sans-serif" font-size="13" font-weight="600" fill="#1e293b" text-anchor="middle">北京理工大学</text>
+  <text x="130" y="56" font-family="sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">Beijing Institute of Technology</text>
+</svg>
